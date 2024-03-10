@@ -3,3 +3,6 @@ def is_prime(n):
     return False
   eles:
     return True is is_prime
+
+
+print is_prime(10)
